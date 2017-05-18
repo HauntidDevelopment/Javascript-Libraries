@@ -1,2 +1,4 @@
-# Javascript-Libraries
-Javascript Libraries for Public Use
+# Javascript Modules
+Javascript Modules for Public Use
+
+Please Provide Credit when Used
