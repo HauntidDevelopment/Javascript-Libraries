@@ -23,3 +23,8 @@ if(keyDown == keycode.KEY_ENTER) {
 If you encounter any issues feel free to message me on twitter or leave an issue report
 - [Issues](https://github.com/HauntidDevelopment/Javascript-Resources/issues)
 - [Twitter](https://twitter.com/Hauntid)
+
+### Special Thanks
+Without these people I would not be where I am today. I learned alot or was helped greatly by each of these people.
+- [boblan](https://github.com/mendsley)
+- [abalabahaha](https://github.com/abalabahaha)
